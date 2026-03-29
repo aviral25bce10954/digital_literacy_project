@@ -1,5 +1,7 @@
 Name-Aviral Verma
+
 REG NO - 25BCE10954
+
 Project Overview
 The Digital Literacy Portfolio is an initiative developed as part of my role as a Student Digital Ambassador. This project aims to promote awareness, responsibility, and effective use of digital tools among students, helping them navigate the online world safely and professionally.
 
