@@ -3,6 +3,7 @@ Name-Aviral Verma
 REG NO - 25BCE10954
 
 Project Overview
+
 The Digital Literacy Portfolio is an initiative developed as part of my role as a Student Digital Ambassador. This project aims to promote awareness, responsibility, and effective use of digital tools among students, helping them navigate the online world safely and professionally.
 
 In today’s technology-driven environment, digital literacy is an essential skill. This portfolio serves as a comprehensive resource that covers key aspects such as creating a professional online presence, practicing safe internet habits, understanding cyber threats, and using digital tools efficiently for academic and personal growth.
